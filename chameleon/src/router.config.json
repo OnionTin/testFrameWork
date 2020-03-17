@@ -1,0 +1,12 @@
+{
+  "mode": "history",
+  "domain": "https://www.chameleon.com",
+  "routes":[
+    {
+      "url": "/cml/h5/index",
+      "path": "/pages/index/index",
+      "name": "仿微博 - chameleon版",
+      "mock": "index.php"
+    }
+  ]
+}
